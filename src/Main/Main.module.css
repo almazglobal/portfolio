@@ -1,0 +1,15 @@
+.main {
+    height: 100vh;
+    background-color: antiquewhite;
+}
+
+.greeting {
+    background-color: #f8f8f8;
+    width: 200px;
+}
+
+.photo {
+    width: 300px;
+    height: 400px;
+    background-color: #c5f8e6;
+}
